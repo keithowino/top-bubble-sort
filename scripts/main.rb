@@ -33,7 +33,7 @@ p bubble_sort(input)
 
 
 
-# # * A #sort solution
+# ! A #sort solution
 
 # def bubble_sort(fix)
 #   return fix.sort.map {|v| v.to_i}
@@ -44,3 +44,28 @@ p bubble_sort(input)
 # bubbles = gets.chomp.split
 # puts "\n"
 # p bubble_sort(bubbles)
+
+
+
+
+# ! The attempt bellow is not accomplished, it was hard to grasp the concept.
+
+# def bubble_sort(arr)
+#   return [] if arr.size <= 1
+#   len = arr.size
+#   fix = false
+
+#   while !fix
+#     fix = false
+#     0.upto(len - 2) do |i|
+#       if arr[i] > arr[i + 1]
+#         arr[i], arr[i + 1] = arr[i + 1], arr[i]
+#         fix = true
+#       end
+#     end
+#     # break if not fix  
+#   end
+#   arr
+# end
+
+# p bubble_sort([7, 5, 4, 30, 11, 10, 99, 12])
