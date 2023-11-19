@@ -1,4 +1,3 @@
-# ! Not added to Git Hub...
 
 def bubble_sort(arr, sorted = :Enter_numbers_on_next_attempt)
   # * The program will finally return a sorted array when the condition bellow is met.
@@ -48,7 +47,7 @@ p bubble_sort(input)
 
 
 
-# ! The attempt bellow is not accomplished, it was hard to grasp the concept.
+# ! This did not become the final render because the concept was challenging to grasp.
 
 # def bubble_sort(arr)
 #   return [] if arr.size <= 1

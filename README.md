@@ -72,4 +72,4 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Bug / Feature Request
 
-- If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here > (https://github.com/freestyletear/top-bubble-sort/issues/new).
+- If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here > (https://github.com/keithowino/top-bubble-sort/issues/new).
